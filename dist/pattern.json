@@ -1,0 +1,27 @@
+[
+    {
+        "pattern_to_be_replaced": "您的簡訊驗證碼為 %code% 為了帳號安全，請勿分享給他人",
+        "replaced_pattern": "jkf[您的簡訊驗證碼為 %code% 為了帳號安全，請勿分享給他人]"
+    },
+    {
+        "pattern_to_be_replaced": "您的驗證碼為: %code% (此驗證碼10分鐘內有效)",
+        "replaced_pattern": "探探[您的驗證碼為: %code% (此驗證碼10分鐘內有效)]"
+    },
+    {
+        "pattern_to_be_replaced": "您的驗證碼為： %code% （此驗證碼10分鐘內有效）",
+        "replaced_pattern": "探探[您的驗證碼為： %code% （此驗證碼10分鐘內有效）]"
+    },
+    {
+        "pattern_to_be_replaced": "%code% 是您的「yueme-app.firebaseapp.com」應用程式驗證碼。",
+        "replaced_pattern": "[yueme][%code% 是您的「yueme-app.firebaseapp.com」應用程式驗證碼。]"
+    },
+    {
+        "pattern": "SUGO",
+        "replaced": "test-SUGO-%code%"
+    }
+    ,
+    {
+        "pattern": "Google",
+        "replaced": "test-Google-%code%"
+    }
+]
