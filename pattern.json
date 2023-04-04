@@ -5,47 +5,23 @@
     },
     {
         "pattern_to_be_replaced": "您的驗證碼為: %code% (此驗證碼10分鐘內有效)",
-        "replaced_pattern": "TanTan[您的驗證碼為: %code% (此驗證碼10分鐘內有效)]"
-    },    
-    {
-        "pattern_to_be_replaced": "%code% is your PIN code",
-        "replaced_pattern": "MICO[%code% is your PIN code]"
-    },
-    {
-        "pattern_to_be_replaced": "Your CMB verification code is: %code%",
-        "replaced_pattern": "Coffee Meets Bagel[Your CMB verification code is: %code%]"
-    },
-    {
-        "pattern_to_be_replaced": "<TikTok > %code% adalah kode verifikasi Anda",
-        "replaced_pattern": "抖音[<TikTok > %code% adalah kode verifikasi Anda]"
-    },
-    {
-        "pattern_to_be_replaced": "G-%code% 是您的 Google 驗證碼",
-        "replaced_pattern": " Googledrive[G-%code% 是您的 Google 驗證碼]"
+        "replaced_pattern": "探探[您的驗證碼為: %code% (此驗證碼10分鐘內有效)]"
     },
     {
         "pattern_to_be_replaced": "您的驗證碼為： %code% （此驗證碼10分鐘內有效）",
-        "replaced_pattern": " TanTan[您的驗證碼為： %code% （此驗證碼10分鐘內有效）]"
+        "replaced_pattern": "探探[您的驗證碼為： %code% （此驗證碼10分鐘內有效）]"
     },
     {
-        "pattern_to_be_replaced": "Telegram code %code%",
-        "replaced_pattern": " Telegram[Telegram code %code%]"
-    },
-    {
-        "pattern_to_be_replaced": "您的驗證碼為%code%,此驗證碼5分鐘內有效",
-        "replaced_pattern": " 甜心花園包養[您的驗證碼為%code%,此驗證碼5分鐘內有效]"
-    },
-    {
-        "pattern_to_be_replaced": "<#>Your CMB verification code is: %code%",
-        "replaced_pattern": " Coffee Meets Bage[<#>Your CMB verification code is: %code%]"
-    },
-    {
-        "pattern_to_be_replaced": "%code% is your verification code for bibiapp-3b659.firebaseapp.com.",
-        "replaced_pattern": " Hello BiBi[%code% is your verification code for bibiapp-3b659.firebaseapp.com.]"
+        "pattern_to_be_replaced": "%code% 是您的「yueme-app.firebaseapp.com」應用程式驗證碼。",
+        "replaced_pattern": "[yueme][%code% 是您的「yueme-app.firebaseapp.com」應用程式驗證碼。]"
     },
     {
         "pattern": "SUGO",
-        "replaced": "SUGO-%code%"
+        "replaced": "test-SUGO-%code%"
     }
-    
+    ,
+    {
+        "pattern": "Google",
+        "replaced": "test-Google-%code%"
+    }
 ]
