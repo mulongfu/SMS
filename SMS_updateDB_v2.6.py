@@ -188,8 +188,8 @@ def search_and_replace_loop(mdb):
             con.commit()  # commit to database
             print("Direct pattern find and replace done!")
             direct_pattern['handle'] = True
-            # cur.close()
-            # con.close()    
+    cur.close()
+    con.close()
 
 
 def read_json():
